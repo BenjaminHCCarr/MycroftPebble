@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "aix.m@outlook.com",
+    "longName": "MycroftPebble",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/myc.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "MycroftPebble",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "versionCode": 1,
+    "versionLabel": "1.4",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
